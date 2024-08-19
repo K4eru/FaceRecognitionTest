@@ -1,0 +1,9 @@
+tensorflow>=2.0.0
+mtcnn
+opencv-python
+pillow
+numpy
+scikit-learn
+tensorflow-hub
+h5py
+keras-facenet
